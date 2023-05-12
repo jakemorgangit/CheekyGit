@@ -1,5 +1,5 @@
 # CheekyGit
-A simple way to fudge git activity and make it look busy :)
+A simple way to automate fudge git activity and keep it alive :)
 
 This is a naughty way to create "fake" github activity - who doesn't like seeing a grid full of green boxes!! 
 
