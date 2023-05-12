@@ -17,7 +17,7 @@ echo " " >> $file
 
 # Stage and commit the change
 git add $file
-git commit -m "automated review: added whitespace"
+git commit -m "CheekyGit added some whitespace"
 
 # Pull any new changes from the main branch
 git pull origin main
@@ -28,7 +28,7 @@ sed -i '$ d' $file
 
 # Stage and commit the change
 git add $file
-git commit -m "automated review: removed whitespace"
+git commit -m "CheekyGit removed some whitespace"
 
 # Push changes to the main branch
 git push origin main
