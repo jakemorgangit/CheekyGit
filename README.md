@@ -12,3 +12,5 @@ I've set mine to run every 30 mins (48 commits per day seems resonable)
 ```
 */30 * * * * /path_to_your_repo/CheekyGit/cheekygit.sh
 ```
+
+Using and modifying the original cheekygit.sh script, multiple repos can be updated 
